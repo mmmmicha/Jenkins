@@ -8,4 +8,7 @@
   - 지속적인 통합
   - 업데이트된 소스를 지속해서 통합하는 과정
   
+![CI구성](https://user-images.githubusercontent.com/56371387/87215187-d5435500-c36e-11ea-8a28-671ac395e9b4.PNG)
+
+  
   
